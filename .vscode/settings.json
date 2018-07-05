@@ -1,0 +1,6 @@
+{
+  "window.zoomLevel": 0,
+  "editor.renderWhitespace": "all",
+  "editor.insertSpaces": false,
+  "javascript.implicitProjectConfig.experimentalDecorators": true
+}
